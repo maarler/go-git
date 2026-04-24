@@ -37,3 +37,7 @@ require (
 
 // Personal fork - used for learning and experimentation.
 // Upstream: https://github.com/go-git/go-git
+//
+// Notes:
+//   - Exploring how pack-file negotiation works during fetch
+//   - TODO: look into shallow clone depth handling in fetch.go
